@@ -2,9 +2,11 @@
 
 Public privacy policies for apps.
 
+GitHub Pages is enabled (branch `Main` / root).
+
 ## OfflinePOS
 
-- [Privacy Policy](./offlinepos/)
+- Live: https://dkenz.github.io/privacy-policies/offlinepos/
 - Source: https://github.com/Dkenz/OfflinePOS (private)
 
-Enable GitHub Pages on this repo (Settings → Pages → Deploy from branch `Main` / `/ (root)`) to serve the pages.
+Add more apps by creating a folder with an `index.html` (e.g. `myapp/index.html` → https://dkenz.github.io/privacy-policies/myapp/).
