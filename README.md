@@ -3,6 +3,6 @@
 Public privacy policies for apps.
 
 
-## OfflinePOS
+## Konte
 
-- Live: https://dkenz.github.io/privacy-policies/offlinepos/
+- Live: https://dkenz.github.io/privacy-policies/konte/
